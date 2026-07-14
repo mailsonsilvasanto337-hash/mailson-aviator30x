@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://mailsonaviator30x.vercel.app/sitemap.xml

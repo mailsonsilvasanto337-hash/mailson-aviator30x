@@ -1,0 +1,22 @@
+{
+  "name": "MAILSON_AVIATOR30X",
+  "short_name": "MAILSON30X",
+  "description": "Comunidade gratuita sobre análise de padrões, disciplina operacional e gerenciamento de banca.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050608",
+  "theme_color": "#050608",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
